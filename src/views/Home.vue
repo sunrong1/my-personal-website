@@ -3,6 +3,7 @@
     <div class="home">
         <h1>欢迎来到我的个人网站</h1>
         <p>这里是首页内容,2024年12月12日，双12启动上线部署</p>
+        <p>gitee代码地址：https://gitee.com/davesun/my-personal-website</p>
     </div>
 </template>
 
