@@ -4,7 +4,7 @@
     <nav>
       <router-link to="/">首页</router-link> |
       <router-link to="/about">关于我</router-link> |
-      <router-link to="/contact">联系我们</router-link>
+      <router-link to="/contact">联系我</router-link>
     </nav>
     <router-view />
   </div>

@@ -2,7 +2,7 @@
 <template>
     <div class="contact">
         <h1>联系我</h1>
-        <p>这里是联系方式...</p>
+        <p>这里是联系方式:sunrong1990@126.com</p>
     </div>
 </template>
 
